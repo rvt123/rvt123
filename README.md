@@ -41,7 +41,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Raghuvansh's GitHub stats](https://github-readme-rvt123.vercel.app/api/api?username=rvt123&show_icons=true&hide_border=true)](https://github.com/rvt123/)
+
+  <img align="left" alt="Raghuvansh's GitHub Stats" src="https://github-readme-rvt123.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
