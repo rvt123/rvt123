@@ -41,9 +41,19 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="rvt123's GitHub Stats" src="https://github-readme-rvt123.vercel.app/api?username=rvt123&show_icons=true&hide_border=true" />
+  <img align="left" alt="Raghuvansh's GitHub Stats" src="https://github-readme-rvt123.vercel.app/api?username=rvt123&show_icons=true&hide_border=true" />
 
 </details>
+
+<br />
+
+<details>
+  <summary>:zap: Top Language</summary>
+
+  <img align="left" alt="Raghuvansh's Top Languages" src="https://github-readme-rvt123.vercel.app/api/top-langs/?username=rvt123&layout=compact" />
+
+</details>
+
 
 
 [twitter]: https://twitter.com/RaghuvanshTahl1
