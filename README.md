@@ -38,10 +38,10 @@
 <br />
 <br />
 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-rvt123.vercel.app/api/api?username=rvt123&show_icons=true&hide_border=true" />
+  [![Raghuvansh's GitHub stats](https://github-readme-rvt123.vercel.app/api/api?username=rvt123&show_icons=true&hide_border=true)](https://github.com/rvt123/)
 
 </details>
 
