@@ -4,8 +4,8 @@
 ## I have completed my Bachelors of Technology in Computer Science from Guru Gobind Singh Indraprastha University, New Delhi. 
 
 - 🌱 My aim is to become a Data Scientist.
-- 🥅 2021 Goals: Contribute more to Open Source projects adn write more acticle on Medium 
-- ⚡ I love Algorithmic Trading and Sports(Cricket) Analytics and would love to learn more.
+- 🥅 2021 Goals: Contribute more to Open Source projects and write more acticle on Medium.
+- ⚡ I love Algorithmic Trading and Sports(Cricket) Analytics and would love to learn more about them.
 
 ### Connect with me:
 
