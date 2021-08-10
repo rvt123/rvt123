@@ -46,8 +46,6 @@
 
 </details>
 
-<br />
-
 <details>
   <summary>:zap: Top Language</summary>
 
@@ -55,6 +53,12 @@
 
 </details>
 
+<details>
+  <summary>:zap: Latest Medium Blogs</summary>
+
+  <img align="left" alt="Raghuvansh's Medium Blogs" src="https://github-readme-medium-rvt123.vercel.app/?username=rvt123" />
+
+</details>
 
 
 [twitter]: https://twitter.com/RaghuvanshTahl1
