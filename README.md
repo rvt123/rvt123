@@ -59,7 +59,7 @@
 <details>
   <summary>:zap: Latest Medium Blogs</summary>
 
-  <img align="left" alt="Raghuvansh's Medium Blogs" src="https://github-readme-medium-rvt123.vercel.app/?username=raghuvansh&limit=3" />
+  <img align="left" alt="Raghuvansh's Medium Blogs" src="https://github-readme-medium-rvt123.vercel.app/?username=raghuvansh&limit=2" />
 
 </details>
 
