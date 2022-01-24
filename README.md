@@ -59,8 +59,12 @@
 <details>
   <summary>:zap: Latest Medium Blogs</summary>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/0" alt="Recent Article 0"> 
-
-  <img align="left" alt="Raghuvansh's Medium Blogs" src="https://github-readme-medium-rvt123.vercel.app/?username=raghuvansh&limit=2" />
+  
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/1" alt="Recent Article 1"> 
+    
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/2" alt="Recent Article 2"> 
+    
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/3" alt="Recent Article 3"> 
 
 </details>
 
