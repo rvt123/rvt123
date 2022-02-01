@@ -63,8 +63,6 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/1" alt="Recent Article 1"> 
     
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/2" alt="Recent Article 2"> 
-    
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/3" alt="Recent Article 3"> 
 
 </details>
 
