@@ -42,30 +42,6 @@
 <!--END_SECTION:waka-->
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Raghuvansh's GitHub Stats" src="https://github-readme-rvt123.vercel.app/api?username=rvt123&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Top Language</summary>
-
-  <img align="left" alt="Raghuvansh's Top Languages" src="https://github-readme-rvt123.vercel.app/api/top-langs/?username=rvt123&layout=compact" />
-
-</details>
-
-<details>
-  <summary>:zap: Latest Medium Blogs</summary>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/0" alt="Recent Article 0"> 
-  
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/1" alt="Recent Article 1"> 
-    
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raghuvansh/2" alt="Recent Article 2"> 
-
-</details>
-
 
 [twitter]: https://twitter.com/RaghuvanshTahl1
 [linkedin]: https://linkedin.com/in/raghuvansh-tahlan/
